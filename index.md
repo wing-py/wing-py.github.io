@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>文档标题</title>
+<title>Wing Github Pages</title>
 </head>
  
 <body>
-文档内容......
+You can use github to make your own static website
 </body>
  
 </html>
